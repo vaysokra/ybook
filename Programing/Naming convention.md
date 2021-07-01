@@ -1,8 +1,8 @@
 #### Public
-    variable :
-    function :
-    class :
+    variable : noun = apple, appleBanana ...
+    function : verb + Noun = getApple(), insertBanana() ...
+    class : Noun = RentedHouse{}
 #### _Private
-    variable :
-    function :
-    class :
+    variable : _noun = _apple, _appleBanana ...
+    function : _verb + Noun = _getApple(), _insertBanana() ...
+    class : _Noun = _RentedHouse{}
