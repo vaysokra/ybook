@@ -5,7 +5,7 @@
 ```
 ### fix
 > **urls = search_images_ddg('grizzly bear', max_images=100)**
-> after correct like below ,make sure restart runtime
+> after correct like code below ,make sure restart runtime
 ```
 res = urlread(url,data={'q':term},decode=True)
 ```
