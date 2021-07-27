@@ -9,3 +9,8 @@
 ```
 res = urlread(url,data={'q':term},decode=True)
 ```
+### download with duckduckgo
+```
+urls = search_images_ddg('grizzly bear', max_images=100)
+len(urls),urls[1]
+```
